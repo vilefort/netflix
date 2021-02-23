@@ -1,0 +1,75 @@
+Extensões Live Server  para gerar server html no vscode , Auto rename para completar as tags renomeadas
+Live Server - selecione a pagina no VSCOde e clica botão direito - Open with live server 
+
+Ao iniciar uma paginha escreve html e nas opções seecione html5 , isso vai escrever toda a formatação inicial da pagina
+<!-- Aperte altShift Baixo para clonar a linha -->
+
+
+-- Se vc vai usar somente algumas coires definidas no projeto , é bom definir essas cores e nomear no arquivo .css.  Ex:
+:root{
+    --vermelho:#E50914;
+    --preta:#141414;
+}
+background: var(--preta);
+
+
+Escrevendo div.nomedaclasse o VSCODE cria a tag div automatico 
+
+fontawesome.com  :  base de fontes e icones
+
+
+
+
+/*  Não utilizados
+linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),
+
+
+
+
+
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+
+}
+
+
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border:none;
+    color: white;
+    padding:15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background-color:white;
+    color:black;
+}
+
+.botao i{
+    margin-right: 8px;
+}
+
+.hero-image {
+     
+    background-size: auto;
+    height: 320px;
+    position: relative;
+}
+
+*/
+
+
+
